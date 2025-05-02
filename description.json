@@ -4,7 +4,7 @@
   "train_images": 2400,
   "val_images": 600,
   "accuracy": {
-    "train": 0.91,
+    "train": 0.86,
     "val": 0.74
   },
   "classes": ["cats", "dogs", "snakes"]
